@@ -66,4 +66,5 @@ git init --initial-branch=main
 
 - Source: [Steven Mortimer, 5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/)
 - Snippet: <https://github.com/Guenbay/change_default_git_branch_to_master/>
+- Gist: <https://gist.github.com/Guenbay/32e236c0041ad38b5e70b7426209e787>
 
