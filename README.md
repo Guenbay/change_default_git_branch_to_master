@@ -2,6 +2,8 @@
 # Change GitHub default branch from master to main
 
 > 5 simple steps that I tested and used to make the change in under 1 minute.
+For more better overview see this link below:
+- Source: <https://dev.to/tham/how-to-migrate-master-branch-to-main-in-github-48aj)>
 
 1. Move the `master` branch to `main`
 
@@ -63,8 +65,8 @@ git init --initial-branch=main
 ```
 
 ---
-
-- Source: [Steven Mortimer, 5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/)
+  
+- Source: <https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/>
 - Snippet: <https://github.com/Guenbay/change_default_git_branch_to_master/>
 - Gist: <https://gist.github.com/Guenbay/32e236c0041ad38b5e70b7426209e787>
 
